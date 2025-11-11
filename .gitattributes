@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-*.pkl filter=lfs diff=lfs merge=lfs -text
-=======
-*.csv filter=lfs diff=lfs merge=lfs -text
->>>>>>> 03d283f17710b30a873a51b2b504ebc7c6978069
